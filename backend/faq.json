@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I reset my password?",
+    "answer": "Go to the login page, click 'Forgot Password', and follow the instructions sent to your email."
+  },
+  {
+    "question": "How can I contact support?",
+    "answer": "You can email support@example.com or use the 'Contact Us' form in your dashboard."
+  },
+  {
+    "question": "What are your support hours?",
+    "answer": "Support is available Monday to Friday, 9 AM to 6 PM (local time)."
+  }
+]

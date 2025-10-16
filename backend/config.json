@@ -1,0 +1,12 @@
+{
+  "openrouter_api_key": "open router api key here",
+  "openrouter_api_url": "https://openrouter.ai/api/v1/chat/completions",
+  "support_email": "youremail@domain.com",
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "username": "youremail@domain.com",
+    "password": "smpt app password here",
+    "from": "youremail@domain.com"
+  }
+}
