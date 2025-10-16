@@ -1,9 +1,3 @@
-Got it ✅ — you want a **clean, professional GitHub-style README** (like those you’d see in open-source repos), not something written in a “marketing tone.”
-
-Here’s a refined version — concise, structured, and realistic for a public project on GitHub.
-
----
-
 # AI Customer Support Bot
 
 A full-stack chatbot that handles customer support queries using a mix of predefined FAQs and an AI language model.
@@ -178,10 +172,4 @@ ai-support-bot/
     ├── index.html
     ├── package.json
     └── tailwind.config.js
-```
 
----
-
-
-
-Would you like me to add **badges, preview screenshots, and concise setup instructions** (like typical GitHub “Getting Started” format)? It’ll make the README look like a polished open-source project page.
